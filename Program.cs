@@ -1,10 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using Microsoft.ML;
+﻿using Microsoft.ML;
 using Microsoft.ML.Runtime.Data;
 using Microsoft.ML.StaticPipe;
+using System;
+using System.IO;
+using System.Linq;
 
 namespace ml_iris
 {
